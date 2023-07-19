@@ -1,0 +1,21 @@
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: white;
+  padding: 0 64px;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+}
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+}
+.navbar a {
+  text-decoration: none;
+  padding: 8px;
+  color: black;
+}/*# sourceMappingURL=-components.css.map */
